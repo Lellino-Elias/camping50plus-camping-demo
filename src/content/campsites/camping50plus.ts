@@ -199,7 +199,7 @@ const camping50plus: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-3ee96aa1c0.webp`, alt: "Luftaufnahme des Bio-Schwimmteichs mit Seerosen und Sonnenschirmen am Campingpark Fisching" },
       { src: `${IMG}/gallery-6a6dc946fd.webp`, alt: "Paar genießt den Sonnenuntergang in der Blumenwiese am 50plus Campingpark Fisching" },
-      { src: `${IMG}/accommodation-964c7f39f6.webp`, alt: "Wohnküche eines Komfort-Appartements am Campingpark Fisching" },
+      { src: `${IMG}/gallery-731bff3b32.webp`, alt: "Schlafzimmer mit Zirbenholz im Komfort-Appartement Zirbenland" },
       { src: `${IMG}/kids-7c8f70b7bb.webp`, alt: "Schlafkomfort im Zirbenbett der Komfort-Appartements Zirbenland" },
       { src: `${IMG}/gallery-42a7de9944.webp`, alt: "Paar zu zweit im Blumenmeer vor dem Steiermark-Herz nahe Fisching" },
       { src: `${IMG}/gallery-b4654b9bd1.webp`, alt: "Murtaler Bachlauf im Wald rund um Fisching" },
