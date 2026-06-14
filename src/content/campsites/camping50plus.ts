@@ -33,17 +33,17 @@ const camping50plus: CampsiteConfig = {
   pillars: [
     {
       title: "Camping nur für Erwachsene",
-      text: "Kein Kinderlachen, kein Hundebellen — nur Schilfrauschen, ein gutes Buch und die Hängematte zwischen Blumen. Urlaub, der wirklich Erholung ist.",
+      text: "Kein Kinderlachen, kein Hundebellen — nur Schilfrauschen, die Hängematte und ein gutes Buch. Echter Erholungsurlaub.",
       image: { src: `${IMG}/gallery-4d9c277e69.webp`, alt: "Gast entspannt in der Hängematte am Schwimmteich des 50plus Campingparks Fisching" },
     },
     {
       title: "Unser Bio-Schwimmteich",
-      text: "Der Schwimmteich liegt mitten im Platz: eingebettet in Schilf und Seerosen, mit Sonnenschirmen und Plätzchen am Wasser für lange Sommertage.",
+      text: "Der Schwimmteich liegt mitten im Platz — eingebettet in Schilf und Seerosen, mit Sonnenschirmen und Plätzen am Wasser.",
       image: { src: `${IMG}/activity-fb4e696d96.webp`, alt: "Sonnenschirme und Sessel am Bio-Schwimmteich des Campingparks Fisching" },
     },
     {
       title: "Familie Pfandl",
-      text: "Drei Generationen der Familie Pfandl führen den Platz persönlich — aus dem einstigen Gasthaus wurde ein Campingpark mit Komfort-Appartements.",
+      text: "Drei Generationen der Familie Pfandl führen den Platz persönlich — aus dem Gasthaus wurde ein Campingpark mit Komfort.",
       image: { src: `${IMG}/kids-08600fc543.webp`, alt: "Die Gastgeberfamilie Pfandl des 50plus Campingparks Fisching" },
     },
   ],
@@ -92,7 +92,7 @@ const camping50plus: CampsiteConfig = {
       },
       {
         title: "Kleiner Platz im Murtal",
-        text: "Nur ein überschaubarer Kranz an Stellplätzen, viel Wiese und Bäume: Fisching liegt nah an der Mitte Österreichs — ideal als Ziel oder Etappe.",
+        text: "Überschaubar, mit viel Wiese und Bäumen: Fisching liegt nah an der Mitte Österreichs — ideal als Ziel oder Etappe.",
         image: { src: `${IMG}/hero-bdf8ba5e94.webp`, alt: "Luftaufnahme des 50plus Campingparks Fisching im Murtal" },
       },
       {
@@ -107,12 +107,12 @@ const camping50plus: CampsiteConfig = {
       },
       {
         title: "Ob Zelt oder Wohnwagen",
-        text: "Egal ob Zelt, Wohnwagen oder Reisemobil: Bei uns hast du Platz. Mehrere Ver- und Entsorgungsstationen, nachts beleuchtet und mit Schranke gesichert.",
+        text: "Zelt, Wohnwagen oder Reisemobil — bei uns hast du Platz, mit mehreren Ver- und Entsorgungsstationen und Schranke.",
         image: { src: `${IMG}/accommodation-4075a0810a.webp`, alt: "Gäste vor ihrem Wohnwagen am 50plus Campingpark Fisching" },
       },
       {
         title: "Genuss aus der Region",
-        text: "Unser Restaurant hat den ganzen Sommer geöffnet — und schon das Frühstück bringt Köstlichkeiten von regionalen Produzenten auf den Tisch.",
+        text: "Unser Restaurant ist den ganzen Sommer geöffnet — das Frühstück bringt Köstlichkeiten von regionalen Produzenten.",
         image: { src: `${IMG}/gallery-32b5dca0b9.webp`, alt: "Frühstück mit regionalen Köstlichkeiten am Campingpark Fisching" },
       },
     ],
@@ -126,21 +126,21 @@ const camping50plus: CampsiteConfig = {
       {
         name: "Bed & Bike Glamping",
         kind: "Glamping-Bungalow",
-        text: "Kleine, liebevoll dekorierte Bungalows — der perfekte Spagat zwischen Appartement und Campingplatz, mit allen Annehmlichkeiten direkt am Platz.",
+        text: "Liebevoll dekorierte Bungalows — der perfekte Spagat zwischen Appartement und Campingplatz, mit allen Annehmlichkeiten.",
         image: { src: `${IMG}/accommodation-750853d1e5.webp`, alt: "Bed & Bike Glamping-Bungalow am 50plus Campingpark Fisching" },
         features: ["Direkt am Campingpark", "Bed & Bike"],
       },
       {
         name: "Komfort-Appartements Zirbenland",
         kind: "Ferienappartement",
-        text: "Geräumige Appartements mit Zirbenbett aus regionalem Holz — der Duft der Zirbe beruhigt, sodass du im Urlaub besonders gut schläfst.",
+        text: "Geräumige Appartements mit Zirbenbett aus regionalem Holz — der Duft der Zirbe sorgt für besonders erholsamen Schlaf.",
         image: { src: `${IMG}/gallery-cab670435a.webp`, alt: "Schlafzimmer mit Zirbenholz im Komfort-Appartement Zirbenland" },
         features: ["Zirbenbett", "40–110 m²"],
       },
       {
         name: "Appartement mit Terrasse",
         kind: "Ferienappartement",
-        text: "Eigene Terrasse mit Blick Richtung Campingpark, dazu Küche und Badewanne: Hier richtest du dich für ein paar Tage ganz wie zu Hause ein.",
+        text: "Eigene Terrasse mit Blick auf den Campingpark, dazu Küche und Badewanne: Urlaub wie zu Hause, nur schöner.",
         image: { src: `${IMG}/amenity-d96e8f84d7.webp`, alt: "Appartement mit eigener Terrasse am Campingpark Fisching" },
         features: ["Eigene Terrasse", "Küche & Bad"],
       },
@@ -154,7 +154,7 @@ const camping50plus: CampsiteConfig = {
     items: [
       {
         title: "Österreichs erstes Radknotensystem",
-        text: "Von Knoten zu Knoten statt fixer Route: Du stellst dir die Tour nach Wetter, Lust und Kondition zusammen — der Einstieg ist direkt am Platz.",
+        text: "Von Knoten zu Knoten statt fixer Route: Tour nach Wetter und Lust zusammenstellen — der Einstieg ist direkt am Platz.",
         image: { src: `${IMG}/activity-d735ea5ca1.webp`, alt: "Wegweiser des Nimms-Radl-Radknotensystems im Murtal nahe Fisching" },
       },
       {
